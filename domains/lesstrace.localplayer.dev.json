@@ -1,0 +1,20 @@
+{
+    "description": "LessSMP",
+    "domain": "localplayer.dev",
+    "subdomain": "lesstrace",
+
+    "owner": {
+        "repo": "https://github.com/johnnkcool/register",
+        "email": "johnnk3001@gmail.com"
+    },
+
+    "record": {
+        "A": ["51.195.222.254"]
+        "TXT": ["_discord=dh=c259714568dc58eded92f42c88a5a81d5ea69e96"],
+        "SRV": [
+            { "priority": 0, "weight": 5, "port": 25577, "target": "play.lasttrace.run.place" }
+        ]
+    },
+
+    "proxied": false
+}
