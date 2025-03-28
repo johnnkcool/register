@@ -1,0 +1,16 @@
+{
+    "description": "LessSMP",
+    "domain": "localplayer.dev",
+    "subdomain": "_discord.lesstrace",
+
+    "owner": {
+        "repo": "https://github.com/johnnkcool/register",
+        "email": "johnnk3001@gmail.com"
+    },
+
+    "record": {
+        "TXT": ["_discord=dh=c259714568dc58eded92f42c88a5a81d5ea69e96"]
+    },
+
+    "proxied": false
+}
